@@ -1,4 +1,4 @@
-function saveMachine() {
+function guardarDatos() {
     // Obtener los valores ingresados en el formulario
     var name = document.getElementById("machine-name").value;
     var brand = document.getElementById("machine-brand").value;
